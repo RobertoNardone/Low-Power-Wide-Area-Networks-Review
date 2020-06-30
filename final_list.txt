@@ -1,0 +1,47 @@
+Tracking and Monitoring System Based on LoRa Technology for Lightweight Boats
+Proof of Concept of an IoT-Based Public Vehicle Tracking System, Using LoRa (Long Range) and Intelligent Transportation System (ITS) Services
+CoAP and MQTT based Models to deliver Software and Security Updates to IoT Devices Over the Air
+LoRaWAN based GPS tracking of city-buses for smart public transport system
+IoT-based Bus Location System Using LoRaWAN
+A Real-Time Bus Positioning System Based on LoRa Technology
+Internet of Mobile Things: Overview of LoRaWAN, DASH7, and NB-IoT in LPWANs Standards and Supported Mobility
+Changes in the Correlation Between Eye and Steering Movements Indicate Driver Distraction
+Cost and risk sensitive decision making and control for highway overtaking maneuver
+Federal Radionavigation Policy and the Land Transportation User
+IoT Based Solid Waste Management System, A conceptual approach with an architectural solution as a smart city application
+Toward an Easy Deployable Outdoor Parking System – Lessons from Long-term Deployment
+Data Collection and Network Architecture Analysis in Internet of Vehicles Based on NB-IoT
+When LPWAN Meets ITS: Evaluation of Low Power Wide Area Networks for V2X Communications
+Internet of Things (IoT) Communication Protocols : Review
+LoRa — A survey of recent research trends
+VLC for Vehicular Communications: A Multiple Input Multiple Output (MIMO) Approach
+Toward Integrating Vehicular Clouds with IoT for Smart City Services
+The Internet of Things for Intelligent Transportation Systems in Real Smart Cities Scenarios
+Smartphone Based HD Map Building for Autonomous Vehicles
+Highly efficiency radio network solution for Smart City infrastructure
+Lora Technology Based Potholes and Humps Detection for Smart City Transportation
+An Enhanced LoRaWAN Security Protocol for Privacy Preservation in IoT with a Case Study on a Smart Factory-Enabled Parking System
+Internet of Bikes: A DTN Protocol with Data Aggregation for Urban Data Collection
+A non-intrusive Smart metering system: Analytics and simulation of power consumption
+Environmental monitoring system for intelligent stations
+LoRaWAN-Based Energy-Efficient Surveillance by Drones for Intelligent Transportation Systems
+Secure Session Key Management Scheme for Meter-Reading System Based on LoRa Technology
+Combining IoT Deployment and Data Visualization: experiences within campus maintenance use-case
+Recovery of Incapacitated Commercial Delivery Drones Using LPWAN Technology
+LoRa Wireless Link Performance in Multipath Underground Mines
+Performance Evaluation of Low-Power Wide Area based on LoRa Technology for Smart Metering
+Smart Sensing in Mobility: a LoRaWAN Architecture for Pervasive Environmental Monitoring
+Supporting TCP-based Remote Managements of LoRa/LoRaWAN Devices
+Emerging Distributed Programming Paradigm for Cyber-Physical Systems over LoRaWANs
+Campus IoT Collaboration and Governance using the NIST Cybersecurity Framework
+Exploring Challenges and Solutions for Container Transportation Using Rail, A Modelling and Simulation Gaming Study
+CADS: A Connected Assistant for Driving Safe
+Overview of high reliable radio data infrastructures for public automation applications, LoRa Networks
+Preparation of Raspberry Pi for IoT-Enabled Applications
+Interactive Multimedia Services to the Home Comparison of Architectural Elements
+Implement Smart Farm with IoT Technology
+Efficient Image Transmission Using LoRa Technology In Agricultural Monitoring IoT Systems
+A Low-power Wireless Sensing Unit for Hydro-System Automation
+A Smart Aeroponic Tailored for IoT Vertical Agriculture using Network Connected Modular Environmental Chambers
+The World-First Deployment of Narrowband IoT for Rural Hydrological Monitoring in UNESCO Biosphere Environment
+IoT-based Water Quality Monitoring System for Soft-Shell Crab Farming
